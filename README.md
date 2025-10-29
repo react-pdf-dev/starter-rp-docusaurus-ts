@@ -1,6 +1,6 @@
 # React PDF Starter Toolkit in Docusaurus and TypeScript
 
-[![Open example in codesandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/github/porames-at/starter-rp-docusaurus-ts/main?import=true)
+[![Open example in codesandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/github/react-pdf-dev/starter-rp-docusaurus-ts/main)
 
 Welcome to the React PDF Starter Toolkit! This repository provides a comprehensive guide on integrating React PDF with Docusaurus and TypeScript. It showcases how React PDF can be integrated and rendered as part of a React.js project.
 
