@@ -19,7 +19,7 @@ Welcome to the React PDF Starter Toolkit! This repository provides a comprehensi
 
    ```bash
    git clone https://github.com/pdf-viewer-react/starter-rp-docusaurus-ts.git
-   cd starter-rp-electron-ts
+   cd starter-rp-docusaurus-ts.git
    ```
 
 2. **Install Dependencies**: Install the necessary dependencies using npm, yarn, pnpm or bun.
